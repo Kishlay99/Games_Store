@@ -21,4 +21,6 @@ To run this on your device :
 
 8.Fill your bank details to place an order.
 
+PROJECT BY-SHUBHAM KUMAR & KISHLAY KUMAR
+
 !!THANK YOU!!
