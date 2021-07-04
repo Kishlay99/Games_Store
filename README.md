@@ -1,5 +1,5 @@
 # Games_Store
-A online ordering web page using HTML, CSS, NODE JS,MONGODB.
+An online ordering web page using HTML, CSS, NODEJS,MONGODB.
 
 You need to have mongodb and nodejs in your device to run this program .
 
